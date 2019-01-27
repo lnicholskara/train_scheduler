@@ -1,0 +1,32 @@
+body {
+    background-image: url("../images/trainpictureLarge.jpg");
+    background-position: center;
+    height: auto;
+}
+
+.title {
+    color: #fdfffe;
+    background-color: #412b1c;
+    padding: 2% 0%;
+    margin-bottom: 3%;
+    border-radius: 10px;
+}
+
+.card-header {
+    background-color: #658cc5;
+    color: #fdfffe;
+}
+
+.card {
+    border: 0px;
+}
+
+.btn {
+    background-color: #658cc5;
+    color: #fdfffe; 
+}
+
+.btn-delete {
+    background-color: #af7c55;
+    color: #fdfffe; 
+}
